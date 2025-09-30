@@ -35,7 +35,8 @@ The dataset contains income and expense statements for 2021, with **10 columns**
 - **Income Analysis:** Overview of income streams and sources.  
 - **Expense Analysis:** Visual representation of outflows and inflows, with weekly/monthly breakdowns.  
 - **Top Expenses:** Identification of the top five expenditure categories.  
-- **KPIs:** Key financial metrics for quick assessment.  
+- **KPIs:** Key financial metrics for quick assessment.
+![Dashboard Preview](Personal_Expenses_Analysis.png) 
 
 ## Technical Skills Utilized
 - **Data Processing:** Python (pandas) for cleaning, transformation, and aggregation.  
